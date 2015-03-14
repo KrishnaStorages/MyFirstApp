@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         // Sample application to placing the github
+        // This is another comment for sample app.
     }
 
 
